@@ -1,5 +1,5 @@
 // ---------------- CONFIG ----------------
-const API_KEY = "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"; // <--- REPLACE (keep repo private)
+const API_KEY = ""; // <--- REPLACE (keep repo private)
 const MODEL = "gpt-4o-mini";           // or whichever model you use
 
 // Paste full website text (extracted) here:
